@@ -27,11 +27,7 @@
 div {
   padding: 10px;
 }
-@media (max-width: 350px) {
-  html {
-    font-size: small;
-  }
-}
+
   html {
     position: relative;
     min-height: 100%;
