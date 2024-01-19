@@ -5,13 +5,13 @@
     text-align: center;
 }
   
-  @media (min-width: 450px) {
+  @media (min-width: 430px) {
     html {
       font-size: 19px;
     }
   
   }
-  @media (min-width: 350px) and (max-width: 450px) {
+  @media (min-width: 350px) and (max-width: 430px) {
     img {
       width: 75%;
       height: 75%;
